@@ -1,0 +1,6 @@
+/.github
+/.vs
+/MyAutoFac/obj
+/MyAutoFac/bin
+/MyEfCore/obj
+/MyEfCore/bin
