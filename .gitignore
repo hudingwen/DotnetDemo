@@ -4,3 +4,6 @@
 /MyAutoFac/bin
 /MyEfCore/obj
 /MyEfCore/bin
+/MySerilog/bin
+/MySerilog/logs
+/MySerilog/obj
