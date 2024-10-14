@@ -7,3 +7,5 @@
 /MySerilog/bin
 /MySerilog/logs
 /MySerilog/obj
+/MyNLog/obj
+/MyNLog/bin
