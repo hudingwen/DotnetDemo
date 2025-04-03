@@ -1,0 +1,165 @@
+2024-10-14 14:49:24 [INF] Starting web application
+2024-10-14 14:49:26 [INF] Now listening on: http://localhost:5047
+2024-10-14 14:49:26 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-14 14:49:26 [INF] Hosting environment: Development
+2024-10-14 14:49:26 [INF] Content root path: D:\360Downloads\desktop\github\DotnetDemo\MySerilog
+2024-10-14 15:16:52 [INF] Starting web application
+2024-10-14 15:16:53 [INF] Now listening on: http://localhost:5047
+2024-10-14 15:16:53 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-14 15:16:53 [INF] Hosting environment: Development
+2024-10-14 15:16:53 [INF] Content root path: D:\360Downloads\desktop\github\DotnetDemo\MySerilog
+2024-10-14 15:18:00 [INF] Starting web application
+2024-10-14 15:18:01 [INF] Now listening on: http://localhost:5047
+2024-10-14 15:18:01 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-14 15:18:01 [INF] Hosting environment: Development
+2024-10-14 15:18:01 [INF] Content root path: D:\360Downloads\desktop\github\DotnetDemo\MySerilog
+2024-10-14 15:19:46 [INF] Starting web application
+2024-10-14 15:19:47 [INF] Now listening on: http://localhost:5047
+2024-10-14 15:19:47 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-14 15:19:47 [INF] Hosting environment: Development
+2024-10-14 15:19:47 [INF] Content root path: D:\360Downloads\desktop\github\DotnetDemo\MySerilog
+2024-10-14 15:19:55 [INF] HTTP GET /weatherforecast responded 200 in 328.1538 ms
+2024-10-14 15:20:02 [INF] HTTP GET /weatherforecast responded 200 in 30.6666 ms
+2024-10-14 15:20:02 [INF] HTTP GET /weatherforecast responded 200 in 39.3083 ms
+2024-10-14 15:20:02 [INF] HTTP GET /weatherforecast responded 200 in 51.5964 ms
+2024-10-14 15:20:03 [INF] HTTP GET /weatherforecast responded 200 in 22.4998 ms
+2024-10-14 15:21:13 [INF] Starting web application
+2024-10-14 15:21:13 [INF] Now listening on: http://localhost:5047
+2024-10-14 15:21:13 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-14 15:21:13 [INF] Hosting environment: Development
+2024-10-14 15:21:13 [INF] Content root path: D:\360Downloads\desktop\github\DotnetDemo\MySerilog
+2024-10-14 15:21:21 [INF] HTTP GET /weatherforecast responded 200 in 365.4188 ms
+2024-10-14 15:21:22 [INF] HTTP GET /weatherforecast responded 200 in 57.3588 ms
+2024-10-14 15:21:23 [INF] HTTP GET /weatherforecast responded 200 in 68.4895 ms
+2024-10-14 15:21:23 [INF] HTTP GET /weatherforecast responded 200 in 24.2638 ms
+2024-10-14 15:21:23 [INF] HTTP GET /weatherforecast responded 200 in 22.8199 ms
+2024-10-14 15:21:23 [INF] HTTP GET /weatherforecast responded 200 in 27.7132 ms
+2024-10-14 15:25:39 [INF] Starting web application
+2024-10-14 15:25:40 [INF] Now listening on: http://localhost:5047
+2024-10-14 15:25:40 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-14 15:25:40 [INF] Hosting environment: Development
+2024-10-14 15:25:40 [INF] Content root path: D:\360Downloads\desktop\github\DotnetDemo\MySerilog
+2024-10-14 15:25:49 [INF] Starting web application
+2024-10-14 15:25:51 [INF] Now listening on: http://localhost:5047
+2024-10-14 15:25:51 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-14 15:25:51 [INF] Hosting environment: Development
+2024-10-14 15:25:51 [INF] Content root path: D:\360Downloads\desktop\github\DotnetDemo\MySerilog
+2024-10-14 15:25:54 [INF] HTTP GET /weatherforecast responded 200 in 217.4712 ms
+2024-10-14 15:25:54 [INF] HTTP GET /weatherforecast responded 200 in 51.9262 ms
+2024-10-14 15:25:58 [INF] HTTP GET /weatherforecast responded 200 in 65.8545 ms
+2024-10-14 15:26:09 [INF] HTTP GET /weatherforecast responded 200 in 32.3991 ms
+2024-10-14 15:26:25 [INF] Starting web application
+2024-10-14 15:26:26 [INF] Now listening on: http://localhost:5047
+2024-10-14 15:26:26 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-14 15:26:26 [INF] Hosting environment: Development
+2024-10-14 15:26:26 [INF] Content root path: D:\360Downloads\desktop\github\DotnetDemo\MySerilog
+2024-10-14 15:26:34 [INF] HTTP GET /weatherforecast responded 200 in 533.6740 ms
+2024-10-14 15:27:07 [INF] HTTP GET /weatherforecast responded 200 in 37.3052 ms
+2024-10-14 15:27:07 [INF] HTTP GET /weatherforecast responded 200 in 40.6734 ms
+2024-10-14 15:27:07 [INF] HTTP GET /weatherforecast responded 200 in 31.2569 ms
+2024-10-14 15:27:13 [INF] HTTP GET /weatherforecast responded 200 in 26.2719 ms
+2024-10-14 15:27:14 [INF] HTTP GET /weatherforecast responded 200 in 33.2777 ms
+2024-10-14 15:27:14 [INF] HTTP GET /weatherforecast responded 200 in 27.7848 ms
+2024-10-14 15:27:14 [INF] HTTP GET /weatherforecast responded 200 in 27.5950 ms
+2024-10-14 15:27:14 [INF] HTTP GET /weatherforecast responded 200 in 28.8869 ms
+2024-10-14 15:27:14 [INF] HTTP GET /weatherforecast responded 200 in 23.9607 ms
+2024-10-14 15:27:15 [INF] HTTP GET /weatherforecast responded 200 in 22.8789 ms
+2024-10-14 15:27:15 [INF] HTTP GET /weatherforecast responded 200 in 22.1393 ms
+2024-10-14 15:27:15 [INF] HTTP GET /weatherforecast responded 200 in 21.1684 ms
+2024-10-14 15:27:15 [INF] HTTP GET /weatherforecast responded 200 in 25.9569 ms
+2024-10-14 15:27:15 [INF] HTTP GET /weatherforecast responded 200 in 27.0601 ms
+2024-10-14 15:27:15 [INF] HTTP GET /weatherforecast responded 200 in 24.8579 ms
+2024-10-14 15:27:16 [INF] HTTP GET /weatherforecast responded 200 in 22.6812 ms
+2024-10-14 15:27:16 [INF] HTTP GET /weatherforecast responded 200 in 35.3241 ms
+2024-10-14 15:27:16 [INF] HTTP GET /weatherforecast responded 200 in 24.2908 ms
+2024-10-14 15:27:16 [INF] HTTP GET /weatherforecast responded 200 in 26.1396 ms
+2024-10-14 15:27:16 [INF] HTTP GET /weatherforecast responded 200 in 35.9071 ms
+2024-10-14 15:33:59 [INF] Starting web application
+2024-10-14 15:34:01 [INF] Now listening on: http://localhost:5047
+2024-10-14 15:34:01 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-14 15:34:01 [INF] Hosting environment: Development
+2024-10-14 15:34:01 [INF] Content root path: D:\360Downloads\desktop\github\DotnetDemo\MySerilog
+2024-10-14 15:34:12 [INF] HTTP GET /weatherforecast responded 200 in 313.7322 ms
+2024-10-14 15:34:41 [INF] HTTP GET /weatherforecast responded 200 in 24.8800 ms
+2024-10-14 15:34:41 [INF] HTTP GET /weatherforecast responded 200 in 37.3494 ms
+2024-10-14 15:34:41 [INF] HTTP GET /weatherforecast responded 200 in 28.1955 ms
+2024-10-14 15:34:41 [INF] HTTP GET /weatherforecast responded 200 in 24.0500 ms
+2024-10-14 15:34:41 [INF] HTTP GET /weatherforecast responded 200 in 28.7568 ms
+2024-10-14 15:35:51 [INF] Starting web application
+2024-10-14 15:35:52 [INF] Now listening on: http://localhost:5047
+2024-10-14 15:35:52 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-14 15:35:52 [INF] Hosting environment: Development
+2024-10-14 15:35:52 [INF] Content root path: D:\360Downloads\desktop\github\DotnetDemo\MySerilog
+2024-10-14 15:36:05 [INF] HTTP GET /weatherforecast responded 200 in 340.7618 ms
+2024-10-14 15:36:43 [INF] HTTP GET /weatherforecast responded 200 in 25.6331 ms
+2024-10-14 15:40:03 [INF] Starting web application
+2024-10-14 15:40:04 [INF] Now listening on: http://localhost:5047
+2024-10-14 15:40:04 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-14 15:40:04 [INF] Hosting environment: Development
+2024-10-14 15:40:04 [INF] Content root path: D:\360Downloads\desktop\github\DotnetDemo\MySerilog
+2024-10-14 15:40:11 [INF] This is a custom log message
+2024-10-14 15:40:11 [INF] HTTP GET /weatherforecast responded 200 in 568.3541 ms
+2024-10-14 15:40:22 [INF] This is a custom log message
+2024-10-14 15:40:22 [INF] HTTP GET /weatherforecast responded 200 in 27.5681 ms
+2024-10-14 15:40:26 [INF] This is a custom log message
+2024-10-14 15:40:26 [INF] HTTP GET /weatherforecast responded 200 in 29.9012 ms
+2024-10-14 15:40:27 [INF] This is a custom log message
+2024-10-14 15:40:27 [INF] HTTP GET /weatherforecast responded 200 in 33.9371 ms
+2024-10-14 15:40:28 [INF] This is a custom log message
+2024-10-14 15:40:28 [INF] HTTP GET /weatherforecast responded 200 in 29.2216 ms
+2024-10-14 15:40:28 [INF] This is a custom log message
+2024-10-14 15:40:28 [INF] HTTP GET /weatherforecast responded 200 in 25.7831 ms
+2024-10-14 15:40:29 [INF] This is a custom log message
+2024-10-14 15:40:29 [INF] HTTP GET /weatherforecast responded 200 in 34.9433 ms
+2024-10-14 15:46:32 [INF] Starting web application
+2024-10-14 15:46:33 [INF] Now listening on: http://localhost:5047
+2024-10-14 15:46:33 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-14 15:46:33 [INF] Hosting environment: Development
+2024-10-14 15:46:33 [INF] Content root path: D:\360Downloads\desktop\github\DotnetDemo\MySerilog
+2024-10-14 15:46:46 [INF] HTTP Request Information: Method=GET, Path=/weatherforecast, QueryString=, Body=
+2024-10-14 15:46:46 [INF] This is a custom log message
+2024-10-14 15:46:46 [INF] HTTP GET /weatherforecast responded 200 in 503.0700 ms
+2024-10-14 15:46:46 [INF] HTTP Response Information: StatusCode=200, Body=[{"date":"2024-10-15","temperatureC":49,"temperatureF":120,"summary":"Hot"},{"date":"2024-10-16","temperatureC":5,"temperatureF":40,"summary":"Warm"},{"date":"2024-10-17","temperatureC":41,"temperatureF":105,"summary":"Chilly"},{"date":"2024-10-18","temperatureC":21,"temperatureF":69,"summary":"Cool"},{"date":"2024-10-19","temperatureC":39,"temperatureF":102,"summary":"Balmy"}]
+2024-10-14 15:49:38 [INF] Starting web application
+2024-10-14 15:49:40 [INF] Now listening on: http://localhost:5047
+2024-10-14 15:49:40 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-14 15:49:40 [INF] Hosting environment: Development
+2024-10-14 15:49:40 [INF] Content root path: D:\360Downloads\desktop\github\DotnetDemo\MySerilog
+2024-10-14 15:49:51 [INF] HTTP Request Information: Method=GET, Path=/weatherforecast, QueryString=, Body=
+2024-10-14 15:49:51 [INF] This is a custom log message
+2024-10-14 15:49:51 [INF] HTTP GET /weatherforecast responded 200 in 370.6074 ms
+2024-10-14 15:49:52 [INF] HTTP Response Information: StatusCode=200, Body=[{"date":"2024-10-15","temperatureC":40,"temperatureF":103,"summary":"Mild"},{"date":"2024-10-16","temperatureC":-3,"temperatureF":27,"summary":"Freezing"},{"date":"2024-10-17","temperatureC":33,"temperatureF":91,"summary":"Chilly"},{"date":"2024-10-18","temperatureC":34,"temperatureF":93,"summary":"Scorching"},{"date":"2024-10-19","temperatureC":24,"temperatureF":75,"summary":"Cool"}]
+2024-10-14 15:50:24 [INF] HTTP Request Information: Method=POST, Path=/weatherforecast, QueryString=, Body=
+2024-10-14 15:50:24 [INF] HTTP POST /weatherforecast responded 400 in 56.3889 ms
+2024-10-14 15:50:24 [INF] HTTP Response Information: StatusCode=400, Body={"type":"https://tools.ietf.org/html/rfc9110#section-15.5.1","title":"One or more validation errors occurred.","status":400,"errors":{"file":["The file field is required."]},"traceId":"00-fc387ae1a1714d3e4a60d0afd861e0e2-24fbf6c4aaabc6b7-00"}
+2024-10-14 15:51:09 [ERR] An unhandled exception has occurred while executing the request.
+Microsoft.AspNetCore.Server.Kestrel.Core.BadHttpRequestException: Request body too large. The max request body size is 30000000 bytes.
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.Http1ContentLengthMessageBody.OnReadStarting()
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.MessageBody.TryStartAsync()
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.Http1ContentLengthMessageBody.ReadAsyncInternal(CancellationToken cancellationToken)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream.ReadAsyncInternal(Memory`1 destination, CancellationToken cancellationToken)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at Microsoft.AspNetCore.WebUtilities.FileBufferingReadStream.ReadAsync(Memory`1 buffer, CancellationToken cancellationToken)
+   at System.IO.StreamReader.ReadBufferAsync(CancellationToken cancellationToken)
+   at System.IO.StreamReader.ReadToEndAsyncInternal(CancellationToken cancellationToken)
+   at RequestResponseLoggingMiddleware.ReadStreamAsStringAsync(Stream stream) in D:\360Downloads\desktop\github\DotnetDemo\MySerilog\RequestResponseLoggingMiddleware.cs:line 80
+   at RequestResponseLoggingMiddleware.LogRequest(HttpContext context) in D:\360Downloads\desktop\github\DotnetDemo\MySerilog\RequestResponseLoggingMiddleware.cs:line 30
+   at RequestResponseLoggingMiddleware.InvokeAsync(HttpContext context) in D:\360Downloads\desktop\github\DotnetDemo\MySerilog\RequestResponseLoggingMiddleware.cs:line 19
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-10-14 15:51:48 [INF] HTTP Request Information: Method=POST, Path=/weatherforecast, QueryString=, Body=----------------------------754239483907415328925616
+Content-Disposition: form-data; name="file"; filename="vk_swiftshader_icd.json"
+Content-Type: application/json
+
+{"file_format_version": "1.0.0", "ICD": {"library_path": ".\\vk_swiftshader.dll", "api_version": "1.0.5"}}
+----------------------------754239483907415328925616--
+
+2024-10-14 15:51:48 [INF] This is a custom log message
+2024-10-14 15:51:48 [INF] HTTP POST /weatherforecast responded 200 in 40.8049 ms
+2024-10-14 15:51:48 [INF] HTTP Response Information: StatusCode=200, Body=[{"date":"2024-10-15","temperatureC":-11,"temperatureF":13,"summary":"Cool"},{"date":"2024-10-16","temperatureC":23,"temperatureF":73,"summary":"Mild"},{"date":"2024-10-17","temperatureC":1,"temperatureF":33,"summary":"Hot"},{"date":"2024-10-18","temperatureC":3,"temperatureF":37,"summary":"Chilly"},{"date":"2024-10-19","temperatureC":21,"temperatureF":69,"summary":"Freezing"}]
+2024-10-14 16:25:09 [INF] Starting web application
+2024-10-14 16:25:20 [INF] HTTP Request Information: Method=GET, Path=/weatherforecast, QueryString=, Body=
+2024-10-14 16:25:20 [INF] This is a custom log message
+2024-10-14 16:25:20 [INF] HTTP GET /weatherforecast responded 200 in 455.9498 ms
+2024-10-14 16:25:20 [INF] HTTP Response Information: StatusCode=200, Body=[{"date":"2024-10-15","temperatureC":5,"temperatureF":40,"summary":"Cool"},{"date":"2024-10-16","temperatureC":22,"temperatureF":71,"summary":"Bracing"},{"date":"2024-10-17","temperatureC":45,"temperatureF":112,"summary":"Balmy"},{"date":"2024-10-18","temperatureC":11,"temperatureF":51,"summary":"Cool"},{"date":"2024-10-19","temperatureC":52,"temperatureF":125,"summary":"Hot"}]

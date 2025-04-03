@@ -1,0 +1,6 @@
+@_005_Gridify_HostAddress = http://localhost:5036
+
+GET {{_005_Gridify_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

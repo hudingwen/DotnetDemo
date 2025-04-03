@@ -1,0 +1,87 @@
+2024-10-14 16:44:15.2870 DEBUG Registered model binder providers, in the following order: Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider 
+2024-10-14 16:44:15.3776 DEBUG Hosting starting 
+2024-10-14 16:44:15.6022 INFO Now listening on: http://localhost:5036 
+2024-10-14 16:44:15.6022 DEBUG Loaded hosting startup assembly MyNLog 
+2024-10-14 16:44:15.6022 DEBUG Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh 
+2024-10-14 16:44:15.6022 DEBUG Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net 
+2024-10-14 16:44:15.6022 INFO Application started. Press Ctrl+C to shut down. 
+2024-10-14 16:44:15.6022 INFO Hosting environment: Development 
+2024-10-14 16:44:15.6022 INFO Content root path: D:\360Downloads\desktop\github\DotnetDemo\MyNLog 
+2024-10-14 16:44:15.6022 DEBUG Hosting started 
+2024-10-14 16:44:15.7558 DEBUG Connection id "0HN7C5HHACNSU" received FIN. 
+2024-10-14 16:44:15.7558 DEBUG Connection id "0HN7C5HHACNSV" received FIN. 
+2024-10-14 16:44:15.7619 DEBUG Connection id "0HN7C5HHACNSV" accepted. 
+2024-10-14 16:44:15.7619 DEBUG Connection id "0HN7C5HHACNSU" accepted. 
+2024-10-14 16:44:15.7619 DEBUG Connection id "0HN7C5HHACNSV" started. 
+2024-10-14 16:44:15.7619 DEBUG Connection id "0HN7C5HHACNSU" started. 
+2024-10-14 16:44:15.7739 DEBUG Connection id "0HN7C5HHACNSU" sending FIN because: "The Socket transport's send loop completed gracefully." 
+2024-10-14 16:44:15.7739 DEBUG Connection id "0HN7C5HHACNSV" sending FIN because: "The Socket transport's send loop completed gracefully." 
+2024-10-14 16:44:15.7739 DEBUG Connection id "0HN7C5HHACNSV" disconnecting. 
+2024-10-14 16:44:15.7739 DEBUG Connection id "0HN7C5HHACNSU" disconnecting. 
+2024-10-14 16:44:15.7932 DEBUG Connection id "0HN7C5HHACNSV" stopped. 
+2024-10-14 16:44:15.7932 DEBUG Connection id "0HN7C5HHACNSU" stopped. 
+2024-10-14 16:44:24.7082 DEBUG Connection id "0HN7C5HHACNT0" accepted. 
+2024-10-14 16:44:24.7133 DEBUG Connection id "0HN7C5HHACNT0" started. 
+2024-10-14 16:44:24.7133 DEBUG Connection id "0HN7C5HHACNT1" accepted. 
+2024-10-14 16:44:24.7133 DEBUG Connection id "0HN7C5HHACNT1" started. 
+2024-10-14 16:44:25.0660 DEBUG Connection id "0HN7C5HHACNT1" received FIN. 
+2024-10-14 16:44:25.0723 DEBUG Connection id "0HN7C5HHACNT1" disconnecting. 
+2024-10-14 16:44:25.0723 DEBUG Connection id "0HN7C5HHACNT1" sending FIN because: "The Socket transport's send loop completed gracefully." 
+2024-10-14 16:44:25.0723 INFO Request starting HTTP/1.1 GET http://localhost:5036/weatherforecast - - - 
+2024-10-14 16:44:25.0874 DEBUG Connection id "0HN7C5HHACNT1" stopped. 
+2024-10-14 16:44:26.4054 DEBUG Wildcard detected, all requests with hosts will be allowed. 
+2024-10-14 16:44:26.4054 TRACE All hosts are allowed. 
+2024-10-14 16:44:26.4475 DEBUG 1 candidate(s) found for the request path '/weatherforecast' 
+2024-10-14 16:44:26.4475 DEBUG Endpoint 'MyNLog.Controllers.WeatherForecastController.Get (MyNLog)' with route pattern 'WeatherForecast' is valid for the request path '/weatherforecast' 
+2024-10-14 16:44:26.4475 DEBUG Request matched endpoint 'MyNLog.Controllers.WeatherForecastController.Get (MyNLog)' 
+2024-10-14 16:44:26.4597 TRACE The endpoint does not specify the IRequestSizeLimitMetadata. 
+2024-10-14 16:44:26.4756 INFO Executing endpoint 'MyNLog.Controllers.WeatherForecastController.Get (MyNLog)' 
+2024-10-14 16:44:26.5388 INFO Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[MyNLog.WeatherForecast] Get() on controller MyNLog.Controllers.WeatherForecastController (MyNLog). 
+2024-10-14 16:44:26.5388 DEBUG Execution plan of authorization filters (in the following order): None 
+2024-10-14 16:44:26.5388 DEBUG Execution plan of resource filters (in the following order): None 
+2024-10-14 16:44:26.5388 DEBUG Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000), Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000) 
+2024-10-14 16:44:26.5388 DEBUG Execution plan of exception filters (in the following order): None 
+2024-10-14 16:44:26.5388 DEBUG Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000) 
+2024-10-14 16:44:26.5388 DEBUG Executing controller factory for controller MyNLog.Controllers.WeatherForecastController (MyNLog) 
+2024-10-14 16:44:26.5543 DEBUG Executed controller factory for controller MyNLog.Controllers.WeatherForecastController (MyNLog) 
+2024-10-14 16:44:26.5543 TRACE Action Filter: Before executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter. 
+2024-10-14 16:44:26.5543 TRACE Action Filter: After executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter. 
+2024-10-14 16:44:26.5543 TRACE Action Filter: Before executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter. 
+2024-10-14 16:44:26.5543 TRACE Action Filter: After executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter. 
+2024-10-14 16:44:26.6950 INFO Executing action method MyNLog.Controllers.WeatherForecastController.Get (MyNLog) - Validation state: Valid 
+2024-10-14 16:44:26.6950 INFO Executed action method MyNLog.Controllers.WeatherForecastController.Get (MyNLog), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 2.3687ms. 
+2024-10-14 16:44:26.6950 TRACE Action Filter: Before executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter. 
+2024-10-14 16:44:26.6950 TRACE Action Filter: After executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter. 
+2024-10-14 16:44:26.6950 TRACE Action Filter: Before executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter. 
+2024-10-14 16:44:26.6950 TRACE Action Filter: After executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter. 
+2024-10-14 16:44:26.6950 TRACE Result Filter: Before executing OnResultExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter. 
+2024-10-14 16:44:26.6950 TRACE Result Filter: After executing OnResultExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter. 
+2024-10-14 16:44:26.7120 TRACE Before executing action result Microsoft.AspNetCore.Mvc.ObjectResult. 
+2024-10-14 16:44:26.7120 DEBUG List of registered output formatters, in the following order: Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter 
+2024-10-14 16:44:26.7120 DEBUG No information found on request to perform content negotiation. 
+2024-10-14 16:44:26.7120 DEBUG Attempting to select an output formatter without using a content type as no explicit content types were specified for the response. 
+2024-10-14 16:44:26.7120 DEBUG Attempting to select the first formatter in the output formatters list which can write the result. 
+2024-10-14 16:44:26.7120 DEBUG Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter' and content type 'application/json' to write the response. 
+2024-10-14 16:44:26.7256 INFO Executing ObjectResult, writing value of type 'MyNLog.WeatherForecast[]'. 
+2024-10-14 16:44:26.7983 TRACE After executing action result Microsoft.AspNetCore.Mvc.ObjectResult. 
+2024-10-14 16:44:26.7983 TRACE Result Filter: Before executing OnResultExecuted on filter Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter. 
+2024-10-14 16:44:26.8077 TRACE Result Filter: After executing OnResultExecuted on filter Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter. 
+2024-10-14 16:44:26.8077 INFO Executed action MyNLog.Controllers.WeatherForecastController.Get (MyNLog) in 259.4253ms 
+2024-10-14 16:44:26.8198 INFO Executed endpoint 'MyNLog.Controllers.WeatherForecastController.Get (MyNLog)' 
+2024-10-14 16:44:26.8198 DEBUG Connection id "0HN7C5HHACNT0" completed keep alive response. 
+2024-10-14 16:44:26.8198 INFO Request finished HTTP/1.1 GET http://localhost:5036/weatherforecast - 200 - application/json;+charset=utf-8 1759.1103ms 
+2024-10-14 16:44:27.2126 INFO Request starting HTTP/1.1 GET http://localhost:5036/favicon.ico - - - 
+2024-10-14 16:44:27.2126 TRACE All hosts are allowed. 
+2024-10-14 16:44:27.2126 DEBUG No candidates found for the request path '/favicon.ico' 
+2024-10-14 16:44:27.2126 DEBUG Request did not match any endpoints 
+2024-10-14 16:44:27.2453 DEBUG Connection id "0HN7C5HHACNT0" completed keep alive response. 
+2024-10-14 16:44:27.2453 INFO Request finished HTTP/1.1 GET http://localhost:5036/favicon.ico - 404 0 - 39.6138ms 
+2024-10-14 16:44:27.2453 INFO Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5036/favicon.ico, Response status code: 404 
+2024-10-14 16:44:30.0558 DEBUG Connection id "0HN7C5HHACNT0" received FIN. 
+2024-10-14 16:44:30.0558 DEBUG Connection id "0HN7C5HHACNT0" sending FIN because: "The Socket transport's send loop completed gracefully." 
+2024-10-14 16:44:30.0558 DEBUG Connection id "0HN7C5HHACNT0" disconnecting. 
+2024-10-14 16:44:30.0698 DEBUG Connection id "0HN7C5HHACNT0" stopped. 
+2024-10-14 16:46:03.9464 INFO Now listening on: http://localhost:5036 
+2024-10-14 16:46:03.9811 INFO Application started. Press Ctrl+C to shut down. 
+2024-10-14 16:46:03.9811 INFO Hosting environment: Development 
+2024-10-14 16:46:03.9811 INFO Content root path: D:\360Downloads\desktop\github\DotnetDemo\MyNLog 

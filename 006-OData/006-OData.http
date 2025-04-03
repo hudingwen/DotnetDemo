@@ -1,0 +1,6 @@
+@_006_OData_HostAddress = http://localhost:5268
+
+GET {{_006_OData_HostAddress}}/odata/People
+Accept: application/json
+
+###
